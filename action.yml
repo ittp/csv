@@ -1,0 +1,5 @@
+- name: Tickets
+  # You may pin to the exact commit or the version.
+  # uses: C52866/secret-server-workflow-action@cbbba40f0c199f716950e5bb7c54b3e54381049c
+  list: / 
+  
